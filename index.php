@@ -22,7 +22,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-light p-4 ps-5 pe-5">
         <div class="container-fluid">
         <h1>
-          <a class="navbar-brand" href="index.html"><img src="img/logo.svg" width="50" alt="Vida Saludable"></a>
+          <a class="navbar-brand" href="index.php"><img src="img/logo.svg" width="50" alt="Vida Saludable"></a>
         </h1>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <i class="bi-list"></i>

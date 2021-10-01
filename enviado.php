@@ -46,7 +46,7 @@
             Enviado Con Éxito
         </h1>
         <div class="p-4">
-        <a class="fs-5" href="index.html">
+        <a class="fs-5" href="index.php">
             Volver a Home
         </a>
         </div>
